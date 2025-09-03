@@ -1,0 +1,5 @@
+{
+  "name": "Adaline.ai Clone with Interactive Video",
+  "description": "A clone of the Adaline.ai website, featuring an interactive hero banner where a video's playback is controlled by the user's scroll.",
+  "requestFramePermissions": []
+}
